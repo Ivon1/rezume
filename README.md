@@ -1,2 +1,2 @@
 # rezume
-My rezume
+My Rezume
